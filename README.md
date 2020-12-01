@@ -2,10 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
+Angular Dialogflow chatbot with node.js fullfillment server.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. 
+
 Run 'node index.js' for fullfillment server. Added server folder inside src.
+
 Install ngrok and run 'ngrok {node js port}'. Add the hosted url in dialogflow and Angular code.
 
 ## Code scaffolding
