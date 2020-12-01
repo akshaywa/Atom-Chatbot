@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Atomapp"
+    }
+  },
+  "defaultProject": "Atomapp",
+  "cli": {
+    "analytics": false
+  }
 }

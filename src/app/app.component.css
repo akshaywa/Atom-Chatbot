@@ -1,0 +1,21 @@
+.usermsg {
+    background-color: purple;
+}
+.botmsg {
+    background-color: orange;    
+}
+
+#inputbox{
+    height: fit-content;
+    width: 235px;
+    border: 1px solid red;
+    padding:8px;
+}
+#inputtext{
+    height:33px;
+    border:none;
+    margin:4px;
+}
+#inputspeech{
+    width:7%;
+}
